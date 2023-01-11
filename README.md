@@ -34,7 +34,7 @@ React Icons
 <img src="https://user-images.githubusercontent.com/96131635/195466093-49e0101d-c077-4c06-895a-46eabfecfd77.jpeg" />
 <img src="https://user-images.githubusercontent.com/96131635/195466096-72ff98b9-7a1c-4d73-8ee9-e4369e898160.jpeg" />
 
-<h2> Página de registro </h2>
+<h2> Página de registro </h2> 
 <img src="https://user-images.githubusercontent.com/96131635/195466688-872cdf01-763c-4cfb-9bb7-5dd77c161263.jpeg" />
 
 <h2> Página do usuário </h2>
